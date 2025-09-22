@@ -33,16 +33,6 @@
 
 ---
 
-## 🔑 주요 코드
-
-### 정지화면 검출
-<img src="assets/imageDetectCode.jpg" width="500"/>
-
-### 실시간 비디오 검출
-<img src="assets/videoDetectCode.jpg" width="500"/>
-
----
-
 ## 📊 프로젝트 결과
 - **성능 지표**
   - 정확도: 65%
